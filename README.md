@@ -66,6 +66,16 @@ o	Conduct correlational analysis of isotopes & source region quantifications (â€
   
   3.7 **Mean_AOT_VIIRS_PSAF.py** Compute Potential Source Area Frequency and export as a raster file 
 
+## Acronyms
+- M-AERI: Marine-Atmospheric Emitted Radiance Interferometer 
+- AERONET-MAN: Aerosol Robotic Network (AERONET) Maritime Aerosol Network (MAN)
+- LAADS: Level-1 and Atmosphere Archive and Distribution System (LAADS)
+
+## Notes
+- 2015 AEROSE Campaign Collaboration Details: https://www.aoml.noaa.gov/wp-content/uploads/2023/01/pne22_cruise_report.pdf
+
+https://mcac.umbc.edu/mass-spectrometry/
+
 
 
 
